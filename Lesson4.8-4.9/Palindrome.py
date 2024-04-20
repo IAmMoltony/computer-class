@@ -1,6 +1,6 @@
 # Palindrome
 # Find palindrome numbers between 2 user-inputted numbers. If not found, print -1
-# Unrunnable due to missing colon in the while loop.
+# Unrunnable due to missing colon in the while loop and incorrect indentation in the else-statement.
 
 A, B=map(int,input().split())
 t=0
